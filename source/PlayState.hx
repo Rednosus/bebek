@@ -881,7 +881,7 @@ class PlayState extends MusicBeatState
 
 		//Only Mobile Users have watermark
 		#if mobile
-		watermark = new FlxText(0, 700, "PORTED BY COOL GAMER", 20);
+		watermark = new FlxText(0, 700, "PORTED BY RED ENGINEER CH", 20);
 		watermark.scrollFactor.set();
 		watermark.setFormat("assets/fonts/vcr.ttf", 20, FlxColor.WHITE, LEFT, OUTLINE, FlxColor.BLACK);
 		watermark.borderSize = 1.25;
