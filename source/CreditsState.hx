@@ -64,14 +64,6 @@ class CreditsState extends MusicBeatState
 
 		#end
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-		['Super Idol Android By'],
-		['Cool gamer', 'gtnv', 'android coder', 'https://www.youtube.com/channel/UCnw5m41Yud2t7uoI9NXQj2g', '0xFFE645E0'],
-		['Super Idol Team Credits'],
-		['Uniimations', 'uniimations', 'Director, Sprite & Credit Icon Artist, Musician, Programmer', 'https://twitter.com/UniiAnimates', '0xFFFF00BA'],
-		['Potionion', 'potionion', 'Artist for Cover art, GF resprite, Background, Icon, & Rating Pop Up', 'https://twitter.com/Potionion', '0xFFC3C3C3'],
-		['Cerbera', 'cerbera', 'Charter for all Super Idol difficulties', 'https://www.youtube.com/c/Cerberaa', '0xFF572B57'],
-		['Diples', 'diples', 'Mod Idea', 'https://twitter.com/imdiples', '0xFFFFFFFF'],
-		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/RiverOaken',		'0xFFC30085']
